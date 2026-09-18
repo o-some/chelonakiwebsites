@@ -1,0 +1,116 @@
+{
+  "version": "1.0.0",
+  "status": "FILES_REVIEWED_FOR_PRIVATE_DEMO",
+  "assets": [
+    {
+      "id": "primary_svg",
+      "role": "primary_svg",
+      "path": "primary.svg",
+      "sha256": "8a56428148ad6dc82cd75ee3e797661296b36ca7338fb9cdb0a4c06ba43b6513",
+      "source_id": "8a56428148ad6dc82cd75ee3e797661296b36ca7338fb9cdb0a4c06ba43b6513",
+      "asset_class": "APPROVED_PUBLIC_DERIVATIVE",
+      "rights_ref": "PROVENANCE.json",
+      "transparent": false
+    },
+    {
+      "id": "primary_png",
+      "role": "primary_png",
+      "path": "primary.png",
+      "sha256": "8f7642f0b14147b7372b61fa469a5a92f4211ee5cf5e10659cc6c9599487c024",
+      "source_id": "8a56428148ad6dc82cd75ee3e797661296b36ca7338fb9cdb0a4c06ba43b6513",
+      "asset_class": "APPROVED_PUBLIC_DERIVATIVE",
+      "rights_ref": "PROVENANCE.json",
+      "transparent": true
+    },
+    {
+      "id": "dark_svg",
+      "role": "dark_svg",
+      "path": "dark.svg",
+      "sha256": "a5ee1560e1e038cc9b2929738f505194abfd0e773a999ddba4d8e305694e2f7d",
+      "source_id": "8a56428148ad6dc82cd75ee3e797661296b36ca7338fb9cdb0a4c06ba43b6513",
+      "asset_class": "APPROVED_PUBLIC_DERIVATIVE",
+      "rights_ref": "PROVENANCE.json",
+      "transparent": false
+    },
+    {
+      "id": "dark_png",
+      "role": "dark_png",
+      "path": "dark.png",
+      "sha256": "de25f3e82a02faf6bb529361ebd338b220e7e0541f2cc763ea5e5b6d58f7a48d",
+      "source_id": "8a56428148ad6dc82cd75ee3e797661296b36ca7338fb9cdb0a4c06ba43b6513",
+      "asset_class": "APPROVED_PUBLIC_DERIVATIVE",
+      "rights_ref": "PROVENANCE.json",
+      "transparent": true
+    },
+    {
+      "id": "light_svg",
+      "role": "light_svg",
+      "path": "light.svg",
+      "sha256": "404eeb013a0729276b79671c429456253c8e960e87d846ebf067ad6f2ddae138",
+      "source_id": "8a56428148ad6dc82cd75ee3e797661296b36ca7338fb9cdb0a4c06ba43b6513",
+      "asset_class": "APPROVED_PUBLIC_DERIVATIVE",
+      "rights_ref": "PROVENANCE.json",
+      "transparent": false
+    },
+    {
+      "id": "light_png",
+      "role": "light_png",
+      "path": "light.png",
+      "sha256": "9487e025e054a913ed2c39c796355b39918187b04000fe8f7a0014a564aa0325",
+      "source_id": "8a56428148ad6dc82cd75ee3e797661296b36ca7338fb9cdb0a4c06ba43b6513",
+      "asset_class": "APPROVED_PUBLIC_DERIVATIVE",
+      "rights_ref": "PROVENANCE.json",
+      "transparent": true
+    },
+    {
+      "id": "icon_svg",
+      "role": "icon_svg",
+      "path": "icon.svg",
+      "sha256": "21e83556072657c9c3fd7f4aa6d79fbc98ae54396993cb3332373c5de56df931",
+      "source_id": "21e83556072657c9c3fd7f4aa6d79fbc98ae54396993cb3332373c5de56df931",
+      "asset_class": "APPROVED_PUBLIC_DERIVATIVE",
+      "rights_ref": "PROVENANCE.json",
+      "transparent": false
+    },
+    {
+      "id": "favicon_svg",
+      "role": "favicon_svg",
+      "path": "favicon.svg",
+      "sha256": "21e83556072657c9c3fd7f4aa6d79fbc98ae54396993cb3332373c5de56df931",
+      "source_id": "21e83556072657c9c3fd7f4aa6d79fbc98ae54396993cb3332373c5de56df931",
+      "asset_class": "APPROVED_PUBLIC_DERIVATIVE",
+      "rights_ref": "PROVENANCE.json",
+      "transparent": false
+    },
+    {
+      "id": "favicon_ico",
+      "role": "favicon_ico",
+      "path": "favicon.ico",
+      "sha256": "aa2b447ce8353bc6735653285003fb8db5337069ab48aaa05c29a5d7f34107af",
+      "source_id": "21e83556072657c9c3fd7f4aa6d79fbc98ae54396993cb3332373c5de56df931",
+      "asset_class": "APPROVED_PUBLIC_DERIVATIVE",
+      "rights_ref": "PROVENANCE.json",
+      "transparent": false
+    },
+    {
+      "id": "apple_touch",
+      "role": "apple_touch",
+      "path": "apple-touch.png",
+      "sha256": "7a15edb2ce187531dfcceb3f8d7f9b7016654a429bdda5dac575b810903884e8",
+      "source_id": "21e83556072657c9c3fd7f4aa6d79fbc98ae54396993cb3332373c5de56df931",
+      "asset_class": "APPROVED_PUBLIC_DERIVATIVE",
+      "rights_ref": "PROVENANCE.json",
+      "transparent": false
+    },
+    {
+      "id": "vector_pdf",
+      "role": "vector_pdf",
+      "path": "logo-vector.pdf",
+      "sha256": "52fbe59537fc54313aaed9a8aa6a0ce1bed49d1eac4b2f1ebc559321307095b5",
+      "source_id": "8a56428148ad6dc82cd75ee3e797661296b36ca7338fb9cdb0a4c06ba43b6513",
+      "asset_class": "APPROVED_PUBLIC_DERIVATIVE",
+      "rights_ref": "PROVENANCE.json",
+      "transparent": false
+    }
+  ]
+}
